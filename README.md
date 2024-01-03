@@ -1,2 +1,2 @@
-# introduction-data-science
-# introduction-data-science
+# 10225501423 黄冠富
+# 每个文件夹对应每一周的作业，还有两个实验手册的作业，期末大作业在对应的文件夹下
